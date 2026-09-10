@@ -242,3 +242,6 @@ This repository serves as the official landing page for The Culling. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of The Culling today!**
+
+---
+**Last updated:** 2026-09-10 21:18:47 UTC
