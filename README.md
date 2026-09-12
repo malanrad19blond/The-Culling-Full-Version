@@ -244,4 +244,4 @@ This repository serves as the official landing page for The Culling. The softwar
 **Get the most recent version of The Culling today!**
 
 ---
-**Last updated:** 2026-09-12 09:48:53 UTC
+**Last updated:** 2026-09-12 13:15:24 UTC
